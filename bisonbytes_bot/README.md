@@ -1,16 +1,26 @@
-# bisonbytes_bot
+## Inspiration
+Mitigating delays in emergency responses
 
-A new Flutter project.
 
-## Getting Started
+## What it does
+Empower individuals to save lives in medical emergencies.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## How we built it
+React; Flutter (for front-end) and python for the backend with Azure AI service for the LLM and Azure Blob storage for storing the training data.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Challenges we ran into
+Connecting the front-end to the back-end of the app
+
+
+## Accomplishments that we're proud of
+Building/training the LLM, thinking and coming up with an idea, learning about Azure and other programming languages
+
+
+## What we learned
+Azure and other programming languages
+
+
+## What's next for CareEd
+Investors, going worldwide, building the app till completion and enhancing user experience while learning and attending to emergencies.
